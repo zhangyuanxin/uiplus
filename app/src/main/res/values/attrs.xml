@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="font" format="string" />
+    <attr name="rotate" format="boolean" />
+    <declare-styleable name="FontView">
+        <attr name="font" />
+        <attr name="rotate" />
+    </declare-styleable>
+</resources>
